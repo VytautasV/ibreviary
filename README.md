@@ -2,7 +2,7 @@
 
 ## Liturgy of the Hours 
 
-The Liturgy of the Hours (Latin: Liturgia Horarum) or Divine Office (*Officium Divinum*) or Work of God (*Opus Dei*) or canonical hours, often referred to as the **Breviary**, is the official set of prayers "marking the hours of each day and sanctifying the day with prayer".
+The Liturgy of the Hours (Latin: *Liturgia Horarum*) or Divine Office (*Officium Divinum*) or Work of God (*Opus Dei*) or canonical hours, often referred to as the **Breviary**, is the official set of prayers "marking the hours of each day and sanctifying the day with prayer".
 
 It consists primarily of:
 
