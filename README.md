@@ -1,2 +1,41 @@
 # ibreviary
-Liturgy of the Hours 
+
+## Liturgy of the Hours 
+
+The Liturgy of the Hours (Latin: Liturgia Horarum) or Divine Office (*Officium Divinum*) or Work of God (*Opus Dei*) or canonical hours, often referred to as the **Breviary**, is the official set of prayers "marking the hours of each day and sanctifying the day with prayer".
+
+It consists primarily of:
+
+1. psalms 
+2. supplemented by hymns, 
+3. readings 
+4. other prayers and antiphons. 
+
+Together with the Mass, it constitutes the **official public prayer life** of the Church. The Liturgy of the Hours also forms the **basis of prayer within Christian monasticism**.
+
+## Full open accsess for 10 main languages
+
+A full Liturgy of the Hours is available on a [website](http://www.ibreviary.com/m/opzioni.php) (2018-04-12) in 10 languages:
+
+- Italiano
+- English
+- Español
+- Français
+- Português
+- Română
+- Arabian
+- Rito Ambrosiano
+- Latino
+- Vetus Ordo
+
+## Partial access for any language
+
+[Website](http://www.ibreviary.com/m/opzioni.php) provides coding of psalms (1), hymns (2) and readings (3). Other prayers and antiphons are provided only in 10 languages mentioned above.
+
+Using [MyBible modules](https://docs.google.com/document/d/12rf4Pqy13qhnAW31uKkaWNTBDTtRbNW0s7cM0vcimlA/edit#heading=h.ec9vzutl5wtt) combining different Bible translations with custom Liturgy of Hours reading plans it is possible to 
+
+## Webscraping 
+
+
+
+## Database (MyBible *Reading plan* module)  
