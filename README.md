@@ -32,9 +32,10 @@ A full Liturgy of the Hours is available on a [website](http://www.ibreviary.com
 
 [Website](http://www.ibreviary.com/m/opzioni.php) provides coding of psalms (1), hymns (2) and readings (3). Other prayers and antiphons are provided only in 10 languages mentioned above.
 
-Using [MyBible modules](https://docs.google.com/document/d/12rf4Pqy13qhnAW31uKkaWNTBDTtRbNW0s7cM0vcimlA/edit#heading=h.ec9vzutl5wtt) combining different Bible translations with custom Liturgy of Hours reading plans it is possible to 
+Using [MyBible modules](https://docs.google.com/document/d/12rf4Pqy13qhnAW31uKkaWNTBDTtRbNW0s7cM0vcimlA/edit#heading=h.ec9vzutl5wtt) allows combining different **Bible translations** (363 languages available) with Liturgy of Hours **reading plan**. This linking makes a substantial part of Liturgy of Hours available in majority of world languages. 
 
 ## Webscraping 
+
 
 
 
