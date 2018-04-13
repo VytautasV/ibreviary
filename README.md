@@ -46,8 +46,10 @@ To create a new Liturgy of Hours reading plan module for [MyBibble](https://mybi
 
 a) written in RED,
 starts with a word "Psalm" (Psalm 147:12-20)
+
 b) written in RED,
 starts with a words from bible books [list](https://mybible.zone/code-eng.php): "Luke", "Matthew", "Mark", "John", etc.
+
 c) are in brackets (Revelation 21:9)
 
 DO the same for ["Evening Prayer"] (http://www.ibreviary.com/m/breviario.php?s=vespri) and all year dates.
