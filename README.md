@@ -44,10 +44,10 @@ To create a new Liturgy of Hours reading plan module for [MyBibble](https://mybi
 4. Read "Morning prayer" - all data
 6. Extract and save codes from "Morning prayer":
 
-a) written in RED,
+  a) written in RED,
 starts with a words from bible books [list](https://mybible.zone/code-eng.php): "Psalm", "Luke", "Matthew", "Mark", "John", etc.
 
-b) are in brackets (Revelation 21:9)
+  b) are in brackets (Revelation 21:9)
 
 DO the same for ["Evening Prayer"] (http://www.ibreviary.com/m/breviario.php?s=vespri) and all year dates.
 
