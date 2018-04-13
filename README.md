@@ -43,6 +43,7 @@ To create a new Liturgy of Hours reading plan module for [MyBibble](https://mybi
 3. Open "Morning prayer" (http://www.ibreviary.com/m/breviario.php?s=lodi)
 4. Read "Morning prayer" - all data
 6. Extract and save codes from "Morning prayer":
+
 a) written in RED,
 starts with a word "Psalm" (Psalm 147:12-20)
 b) written in RED,
