@@ -34,7 +34,7 @@ A full Liturgy of the Hours is available on a [website](http://www.ibreviary.com
 
 Using [MyBible modules](https://docs.google.com/document/d/12rf4Pqy13qhnAW31uKkaWNTBDTtRbNW0s7cM0vcimlA/edit#heading=h.ec9vzutl5wtt) allows combining different **Bible translations** (363 languages available) with Liturgy of Hours **reading plan**. This linking makes a substantial part of Liturgy of Hours available in majority of world languages. 
 
-To create Liturgy of Hours reading plan for [MyBibble](https://mybible.zone/index-eng.php) app data available on the [website](http://www.ibreviary.com/) will be used.
+To create a new Liturgy of Hours reading plan module for [MyBibble](https://mybible.zone/index-eng.php) app data available on the [website](http://www.ibreviary.com/) will be used.
 
 ## Webscraping 
 
