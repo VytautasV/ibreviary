@@ -38,7 +38,16 @@ To create a new Liturgy of Hours reading plan module for [MyBibble](https://mybi
 
 ## Webscraping 
 
+Pseudo code
 
+1. Access http://www.ibreviary.com/m/opzioni.php 
+2. Set date to current 
+3. Open "Morning prayer" (http://www.ibreviary.com/m/breviario.php?s=lodi)
+4. Expand "Morning prayer" - use first "Go to" hyperlink
+5. Read "Morning prayer" - all data
+6. Extract and save "Morning prayer" codes for the date
 
+4.  "Evening Prayer" (http://www.ibreviary.com/m/breviario.php?s=vespri)
+5. 
 
 ## Database (MyBible *Reading plan* module)  
